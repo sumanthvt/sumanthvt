@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sumanthvt
-- 👀 I’m interested in Front End Development.
-- 🌱 I’m currently learning Front End Development.
-- 💞️ I’m looking to collaborate on web Development Projects.
+- 👀 I’m interested in DevOps.
+- 🌱 I’m currently working as a DevOps Engineer.
 - 📫 How to reach me gmail: sumanthvt2000@gmail.com
 
 <!---
